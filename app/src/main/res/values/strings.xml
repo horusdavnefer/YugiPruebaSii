@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YUGIOHCARDS</string>
+    <string name="url">https://db.ygoprodeck.com/api/v7/</string>
+</resources>
